@@ -1,0 +1,2 @@
+from Automatic_FF_test import *
+Automatic_FF_testing
